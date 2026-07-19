@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ruslanklmn-hub.github.io/poehali/sitemap.xml
+Sitemap: https://poehali-travel.github.io/poehali/sitemap.xml
